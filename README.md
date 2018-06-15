@@ -8,7 +8,7 @@ You need to [Create a new App on Discord](https://discordapp.com/developers/appl
 
 # Functionalities
 
-The Bot can recognize the typicall Ping command.
+The Bot can recognize the typical Ping command.
 This repo is designed to provide a simple template.
 It's fairly easy to implement other command functionalities.
 
