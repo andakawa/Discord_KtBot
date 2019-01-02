@@ -11,8 +11,6 @@ class Bot(val token: String) {
     )
 
     fun start() {
-        println("Here come dat boi!!! o shit waddup!\n" +
-                "===================================")
         println("Commands available: ${commands.size}\n")
 
         val builder = JDABuilder(AccountType.BOT)
